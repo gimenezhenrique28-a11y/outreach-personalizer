@@ -165,5 +165,5 @@ export default function App() {
         onClearMessages={agent.clearMessages}
       />
     </div>
-  );
+  )
 }
