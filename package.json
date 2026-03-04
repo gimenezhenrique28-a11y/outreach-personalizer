@@ -1,5 +1,5 @@
 {
-  "name": "lead-enrichment",
+  "name": "softknock",
   "private": true,
   "workspaces": [
     "apps/*",
